@@ -9,7 +9,7 @@ const Splash = () => {
   // Hide the splash Screen
   useEffect(() => {
     setTimeout(() => {
-      reset({index: 0, routes: [{name: 'Home'}]});
+      reset({index: 0, routes: [{name: 'Login'}]});
     }, 5000);
   }, []);
 
