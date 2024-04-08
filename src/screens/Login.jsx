@@ -47,7 +47,7 @@ const Login = () => {
                     disabled
                   />
                 }
-                label="email"
+                label="Email"
                 className="mb-4"
               />
 
